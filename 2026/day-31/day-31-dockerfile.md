@@ -76,3 +76,4 @@ Sol DONE
 Create a .dockerignore file in one of your project folders
 Add entries for: node_modules, .git, *.md, .env
 Build the image — verify that ignored files are not included
+
